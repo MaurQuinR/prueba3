@@ -1,0 +1,46 @@
+
+.navbar-text{
+  font-size: 20px;
+  margin-inline-start: 150px;
+ 
+ 
+}
+  
+
+
+    .navbar .logo{
+        font-weight: bold;
+        font-size: 48px;
+        padding-left: 30px;
+        
+        
+      }
+
+      .navbar .opciones {
+        
+       display:flex;
+     
+       
+       
+        
+       
+      
+      }
+     p{
+   padding-left: 200px;
+     }
+      a:hover{
+
+        color: #fff;
+      }
+h5{
+
+display: inline;
+
+  
+}
+
+.nav-item{
+  margin: 2px;
+}
+

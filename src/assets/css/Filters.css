@@ -1,0 +1,16 @@
+.filters {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 14px;
+    font-weight: 700;
+    padding-top: 2px;
+    padding-bottom: 20px;
+  }
+  
+  .filters > div {
+    display: flex;
+    gap: 1rem;
+  }
+
+  

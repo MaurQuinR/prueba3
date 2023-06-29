@@ -1,0 +1,53 @@
+[{
+   "id":"P001",
+   "name": "Contra 3",
+   "desc": "El único juego y tercero de la saga Contra para SNES. La princesa Zelda vuelve a estar en peligro y Link ha de explorar los dos mundos ayudado de un espejo y la Espada Maestra para salvarla.",
+   "price": 30000,
+   "category": ["Accion", "2d"],
+   "img": "/src/assets/img/images6.jpg"
+
+
+},
+{
+   "id": "P002",
+   "name": "Super Mario",
+   "desc": "Con muchas más sorpresas, que aumentaban la jugabilidad del juego, como la capacidad de trasnformación de Yoshi en varios medios de transporte para progesar en la aventura",
+   "price": 17490,
+   "category": ["Aventura", "2d"],
+   "img": "/src/assets/img/juego mario.jpg"
+},
+{
+   "id": "P003",
+   "name": "Doble Dragon",
+   "desc": "El tercero de la saga Metroid para SNES con un cartucho de 24 megabits que hicieron de este juego uno de los más grandes para esta consola.",
+   "price": 27890,
+   "category": ["Accion", "2d"],
+   "img": "/src/assets/img/images5.jpg"
+},
+{
+   "id": "P004",
+   "name": "Mario Kart",
+   "desc": "Nintendo to the Universe",
+   "price": 12490,
+   "category": ["Accion", "2d"],
+   "img": "/src/assets/img/images3.jpg"
+},
+{
+   "id": "P005",
+   "name": "Ren",
+   "desc": "El tercero de la saga Metroid para SNES con un cartucho de 24 megabits que hicieron de este juego uno de los más grandes para esta consola ",
+   "price": 28000,
+   "category": ["Aventura", "2d"],
+   "img": "/src/assets/img/images2.jpg"
+},
+
+{
+   "id": "P006",
+   "name": "Maquina Arcade",
+   "desc": "El tercero de la saga Metroid para SNES con un cartucho de 24 megabits que hicieron de este juego uno de los más grandes para esta consola ",
+   "price": 28000,
+   "category": ["Accion", "2d", "Retro"],
+   "img": "/src/assets/img/imagess.jpg"
+}
+
+]

@@ -1,0 +1,35 @@
+.card{
+  margin: 1rem 0;
+  
+}
+
+.buttons-card{
+  display: flex;
+  justify-content: space-between;
+}
+
+h3{
+  margin: 1rem 0;
+}
+.contenedor{
+  padding-left: 120px;
+  padding-right: 80px;
+}
+.img-fluid{
+padding-left: 10px;
+padding-top: 20px;
+}
+.botonera button{
+    margin: 10px;
+  
+  
+}
+
+
+.col-md-2{
+  background-color: rgb(124, 144, 194);
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-left: 3px;
+  
+}
